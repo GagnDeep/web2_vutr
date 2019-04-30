@@ -1,0 +1,110 @@
+1.   NAVJOT KAUR               Total: 482 	percentage: 80.33     Roll No.:  9338
+2.   ARSHDEEP KAUR             Total: 470 	percentage: 78.33     Roll No.:  8705
+3.   MANPREET KAUR             Total: 469 	percentage: 78.17     Roll No.:  8717
+4.   BABY DEVI                 Total: 465 	percentage: 77.50     Roll No.:  9814
+5.   KARMJEET KAUR             Total: 461 	percentage: 76.83     Roll No.:  8713
+6.   NAVDEEP KAUR              Total: 458 	percentage: 76.33     Roll No.:  9926
+7.   GAGANDEEP KAUR            Total: 456 	percentage: 76.00     Roll No.:  9003
+8.   PRIYANSHU MISHRA          Total: 448 	percentage: 74.67     Roll No.:  9959
+9.   LOVEPREET SINGH           Total: 440 	percentage: 73.33     Roll No.:  9162
+10.  ARWINDER KAUR             Total: 439 	percentage: 73.17     Roll No.:  9615
+11.  HARNOOR KAUR              Total: 438 	percentage: 73.00     Roll No.:  9935
+12.  AARTI RANI                Total: 436 	percentage: 72.67     Roll No.:  8701
+13.  RIYA CHAWLA               Total: 435 	percentage: 72.50     Roll No.:  9815
+14.  UMA                       Total: 432 	percentage: 72.00     Roll No.:  9010
+15.  SANDEEP KAUR              Total: 429 	percentage: 71.50     Roll No.:  9538
+16.  RABIYA                    Total: 429 	percentage: 71.50     Roll No.:  9617
+17.  ANJALI                    Total: 427 	percentage: 71.17     Roll No.:  9913
+18.  ANCHAL                    Total: 427 	percentage: 71.17     Roll No.:  9937
+19.  GAGANJOT KAUR             Total: 425 	percentage: 70.83     Roll No.:  9508
+20.  NAVJEET KAUR              Total: 425 	percentage: 70.83     Roll No.:  9526
+21.  AKASHDEEP SINGH           Total: 424 	percentage: 70.67     Roll No.:  10000
+22.  RAMANPREET KAUR           Total: 420 	percentage: 70.00     Roll No.:  9535
+23.  TARANDEEP KAUR            Total: 419 	percentage: 69.83     Roll No.:  9173
+24.  AMANDEEP KAUR             Total: 417 	percentage: 69.50     Roll No.:  8703
+25.  TARANDEEP KUMAR           Total: 416 	percentage: 69.33     Roll No.:  8515
+26.  DEEPIKA VERMA             Total: 415 	percentage: 69.17     Roll No.:  9506
+27.  ANJU                      Total: 415 	percentage: 69.17     Roll No.:  9915
+28.  CHIRAG BABBAR             Total: 415 	percentage: 69.17     Roll No.:  9965
+29.  BABY RANI                 Total: 414 	percentage: 69.00     Roll No.:  9906
+30.  KARAMJIT KAUR             Total: 414 	percentage: 69.00     Roll No.:  9946
+31.  PARDEEP KAUR              Total: 413 	percentage: 68.83     Roll No.:  9529
+32.  NAMANPREET KAUR           Total: 411 	percentage: 68.50     Roll No.:  8613
+33.  JASPREET KAUR             Total: 411 	percentage: 68.50     Roll No.:  9822
+34.  JOTI DEVI                 Total: 410 	percentage: 68.33     Roll No.:  8712
+35.  JASPREET KAUR             Total: 409 	percentage: 68.17     Roll No.:  8751
+36.  SIMRAN KAUR               Total: 408 	percentage: 68.00     Roll No.:  8302
+37.  SAVPREET KAUR             Total: 408 	percentage: 68.00     Roll No.:  9910
+38.  TATINDER KAUR             Total: 407 	percentage: 67.83     Roll No.:  9545
+39.  MANPREET KAUR             Total: 406 	percentage: 67.67     Roll No.:  8718
+40.  MANPREET KAUR             Total: 406 	percentage: 67.67     Roll No.:  9524
+41.  KULVINDER KAUR            Total: 405 	percentage: 67.50     Roll No.:  8714
+42.  JAGDEEP KAUR              Total: 403 	percentage: 67.17     Roll No.:  9321
+43.  LOVEPREET KAUR            Total: 402 	percentage: 67.00     Roll No.:  9521
+44.  MANSI                     Total: 401 	percentage: 66.83     Roll No.:  9908
+45.  AARTI                     Total: 400 	percentage: 66.67     Roll No.:  9501
+46.  SHUBHAM SHARMA            Total: 400 	percentage: 66.67     Roll No.:  9964
+47.  JESSICA                   Total: 399 	percentage: 66.50     Roll No.:  9916
+48.  SIMRANPREET KAUR          Total: 397 	percentage: 66.17     Roll No.:  9541
+49.  MANPREET KAUR             Total: 396 	percentage: 66.00     Roll No.:  9901
+50.  EKTA RANI                 Total: 395 	percentage: 65.83     Roll No.:  9507
+51.  KAMALJIT KAUR             Total: 394 	percentage: 65.67     Roll No.:  9515
+52.  TANIA PURI                Total: 394 	percentage: 65.67     Roll No.:  9544
+53.  GURMUKH SINGH             Total: 394 	percentage: 65.67     Roll No.:  10008
+54.  RAMANJOT KAUR             Total: 393 	percentage: 65.50     Roll No.:  9534
+55.  RAMANPREET KAUR           Total: 393 	percentage: 65.50     Roll No.:  9536
+56.  NAVNEET KAUR              Total: 392 	percentage: 65.33     Roll No.:  9006
+57.  NAVJOT KAUR               Total: 392 	percentage: 65.33     Roll No.:  9527
+58.  RAJANDEEP KAUR            Total: 392 	percentage: 65.33     Roll No.:  9631
+59.  SHUBAM PREET KAUR         Total: 392 	percentage: 65.33     Roll No.:  9832
+60.  PARDEEP KUMAR             Total: 391 	percentage: 65.17     Roll No.:  9958
+61.  SATNAM SHARMA             Total: 391 	percentage: 65.17     Roll No.:  9960
+62.  NAVNEET KAUR              Total: 390 	percentage: 65.00     Roll No.:  9528
+63.  MANPREET KAUR             Total: 390 	percentage: 65.00     Roll No.:  9805
+64.  GAGANDEEP KAUR            Total: 389 	percentage: 64.83     Roll No.:  9156
+65.  SHUBHAM                   Total: 389 	percentage: 64.83     Roll No.:  9993
+66.  SWASTIK TRIPATHI          Total: 388 	percentage: 64.67     Roll No.:  9621
+67.  KAJAL KUMARI              Total: 387 	percentage: 64.50     Roll No.:  9160
+68.  ROMIKA                    Total: 386 	percentage: 64.33     Roll No.:  8727
+69.  NARINDER SINGH            Total: 385 	percentage: 64.17     Roll No.:  10006
+70.  HARPREET KAUR             Total: 384 	percentage: 64.00     Roll No.:  8709
+71.  GURMEET KAUR              Total: 384 	percentage: 64.00     Roll No.:  9311
+72.  AMANPREET KAUR            Total: 384 	percentage: 64.00     Roll No.:  9801
+73.  SUMAN KUMARI              Total: 383 	percentage: 63.83     Roll No.:  9619
+74.  JATINDER SINGH            Total: 382 	percentage: 63.67     Roll No.:  9021
+75.  GURMINDER SINGH           Total: 382 	percentage: 63.67     Roll No.:  10007
+76.  SHARANJIT KAUR            Total: 381 	percentage: 63.50     Roll No.:  9353
+77.  NEETU                     Total: 381 	percentage: 63.50     Roll No.:  9608
+78.  MANPREET KAUR             Total: 380 	percentage: 63.33     Roll No.:  9523
+79.  MANINDER KAUR             Total: 379 	percentage: 63.17     Roll No.:  9522
+80.  PARNEET KAUR              Total: 378 	percentage: 63.00     Roll No.:  9929
+81.  KULDEEP                   Total: 378 	percentage: 63.00     Roll No.:  9974
+82.  AMANDEEP KAUR             Total: 376 	percentage: 62.67     Roll No.:  9605
+83.  SANDHYA                   Total: 375 	percentage: 62.50     Roll No.:  9944
+84.  KHUSHPREET KAUR           Total: 374 	percentage: 62.33     Roll No.:  9903
+85.  SOHAJPREET KAUR           Total: 374 	percentage: 62.33     Roll No.:  9919
+86.  YUVRAJ SINGH              Total: 373 	percentage: 62.17     Roll No.:  9034
+87.  MANINDER KAUR             Total: 373 	percentage: 62.17     Roll No.:  9613
+88.  SIMRANJIT KAUR            Total: 372 	percentage: 62.00     Roll No.:  9540
+89.  SHIVANI                   Total: 372 	percentage: 62.00     Roll No.:  9905
+90.  BALJIT KAUR               Total: 366 	percentage: 61.00     Roll No.:  8736
+91.  ROHIT KUMAR               Total: 366 	percentage: 61.00     Roll No.:  9030
+92.  MOHAMMAD TABREZ ANSARI    Total: 365 	percentage: 60.83     Roll No.:  10002
+93.  EKTA RANI                 Total: 364 	percentage: 60.67     Roll No.:  9911
+94.  AMRINDER SINGH            Total: 362 	percentage: 60.33     Roll No.:  9011
+95.  JASPREET KAUR             Total: 361 	percentage: 60.17     Roll No.:  9513
+96.  JAGBEER KAUR              Total: 360 	percentage: 60.00     Roll No.:  9604
+97.  AJAY KUMAR                Total: 359 	percentage: 59.83     Roll No.:  9302
+98.  NEHA                      Total: 358 	percentage: 59.67     Roll No.:  9804
+99.  GAGANDEEP KAUR            Total: 356 	percentage: 59.33     Roll No.:  9004
+100. DHANISHA SAINI            Total: 353 	percentage: 58.83     Roll No.:  9002
+101. RANJOT SINGH              Total: 350 	percentage: 58.33     Roll No.:  8512
+102. PAWAN KUMAR               Total: 347 	percentage: 57.83     Roll No.:  9028
+103. SIMRANJEET KAUR           Total: 346 	percentage: 57.67     Roll No.:  9009
+104. VIR DAVINDER SINGH        Total: 345 	percentage: 57.50     Roll No.:  9175
+105. SHARNPREET KAUR           Total: 343 	percentage: 57.17     Roll No.:  8729
+106. IMRAN MAJEED KHAN         Total: 340 	percentage: 56.67     Roll No.:  9320
+107. JASMEEN                   Total: 330 	percentage: 55.00     Roll No.:  9829
+108. KARANVEER SINGH           Total: 329 	percentage: 54.83     Roll No.:  9022
+109. MANPREET KAUR             Total: 325 	percentage: 54.17     Roll No.:  9826
+110. BEANT KAUR                Total: 315 	percentage: 52.50     Roll No.:  9807

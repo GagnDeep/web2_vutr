@@ -1,0 +1,30 @@
+29
+1.   NAVDEEP KAUR              Total: 458 	percentage: 76.33	Roll No.:  9926 	Result: pass
+2.   PRIYANSHU MISHRA          Total: 448 	percentage: 74.67	Roll No.:  9959 	Result: pass
+3.   HARNOOR KAUR              Total: 438 	percentage: 73.00	Roll No.:  9935 	Result: pass
+4.   ANJALI                    Total: 427 	percentage: 71.17	Roll No.:  9913 	Result: pass
+5.   ANCHAL                    Total: 427 	percentage: 71.17	Roll No.:  9937 	Result: pass
+6.   AKASHDEEP SINGH           Total: 424 	percentage: 70.67	Roll No.:  10000 	Result: pass
+7.   ANJU                      Total: 415 	percentage: 69.17	Roll No.:  9915 	Result: pass
+8.   CHIRAG BABBAR             Total: 415 	percentage: 69.17	Roll No.:  9965 	Result: pass
+9.   BABY RANI                 Total: 414 	percentage: 69.00	Roll No.:  9906 	Result: pass
+10.  KARAMJIT KAUR             Total: 414 	percentage: 69.00	Roll No.:  9946 	Result: pass
+11.  SAVPREET KAUR             Total: 408 	percentage: 68.00	Roll No.:  9910 	Result: pass
+12.  MANSI                     Total: 401 	percentage: 66.83	Roll No.:  9908 	Result: pass
+13.  SHUBHAM SHARMA            Total: 400 	percentage: 66.67	Roll No.:  9964 	Result: pass
+14.  JESSICA                   Total: 399 	percentage: 66.50	Roll No.:  9916 	Result: pass
+15.  MANPREET KAUR             Total: 396 	percentage: 66.00	Roll No.:  9901 	Result: pass
+16.  GURMUKH SINGH             Total: 394 	percentage: 65.67	Roll No.:  10008 	Result: pass
+17.  PARDEEP KUMAR             Total: 391 	percentage: 65.17	Roll No.:  9958 	Result: pass
+18.  SATNAM SHARMA             Total: 391 	percentage: 65.17	Roll No.:  9960 	Result: pass
+19.  SHUBHAM                   Total: 389 	percentage: 64.83	Roll No.:  9993 	Result: pass
+20.  NARINDER SINGH            Total: 385 	percentage: 64.17	Roll No.:  10006 	Result: pass
+21.  GURMINDER SINGH           Total: 382 	percentage: 63.67	Roll No.:  10007 	Result: pass
+22.  PARNEET KAUR              Total: 378 	percentage: 63.00	Roll No.:  9929 	Result: pass
+23.  KULDEEP                   Total: 378 	percentage: 63.00	Roll No.:  9974 	Result: pass
+24.  SANDHYA                   Total: 375 	percentage: 62.50	Roll No.:  9944 	Result: pass
+25.  KHUSHPREET KAUR           Total: 374 	percentage: 62.33	Roll No.:  9903 	Result: pass
+26.  SOHAJPREET KAUR           Total: 374 	percentage: 62.33	Roll No.:  9919 	Result: pass
+27.  SHIVANI                   Total: 372 	percentage: 62.00	Roll No.:  9905 	Result: pass
+28.  MOHAMMAD TABREZ ANSARI    Total: 365 	percentage: 60.83	Roll No.:  10002 	Result: pass
+29.  EKTA RANI                 Total: 364 	percentage: 60.67	Roll No.:  9911 	Result: pass
